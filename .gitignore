@@ -13,3 +13,8 @@ __pycache__/
 *.pyc
 *.pyo
 
+
+# Gas Town (added by gt)
+.runtime/
+.claude/commands/
+.logs/
